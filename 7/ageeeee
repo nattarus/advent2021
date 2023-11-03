@@ -1,0 +1,26 @@
+{
+	"data": "ENC[AES256_GCM,data:3I4gxrMDqMbBUpRixxeR2uhssj2uwpi6i0hC6nR+smXulLpE4iIkBzmAAGjGu4NkRov8,iv:D1MkGg/7ZkrTE/nRlADOR8lfpQ66//Wv8p7FzCSVtYk=,tag:h7gEfVgbgjTM7xK5gLRUlQ==,type:str]",
+	"sops": {
+		"kms": null,
+		"gcp_kms": null,
+		"azure_kv": null,
+		"hc_vault": null,
+		"age": [
+			{
+				"recipient": "age19p8f3h56t9crjk07yrcms8tjlupalq0l40szqajkkujnkrgwzg4qxyarpj",
+				"enc": "-----BEGIN AGE ENCRYPTED FILE-----\nYWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBKM1FoTkd2WGxNeFpaRWFn\nOU82WWJMTHo5dnk2a25VZDRmUkZZRE92WVVBCjkvcjhGTjgrZFRmTDUxMzhzL21Q\nQzN2MUlESTZFUjRGc2NGSVVlMmZUUk0KLS0tIEwwdXI3TS84aUFQbWRtYjJyb2xZ\nTTRuUVkxZmN0RDVyRnZKbHQ1L0lWNG8KsS1WKM5HXjkoc0sh4bZuzOlY/omVd91Z\nApENd2ITm3AAseYW3JkLuLN4/VTSbdcyJNg8BPQjLZt9bGNsxe+rIg==\n-----END AGE ENCRYPTED FILE-----\n"
+			}
+		],
+		"lastmodified": "2021-12-08T07:22:40Z",
+		"mac": "ENC[AES256_GCM,data:TswWlbvpsV6B9ZddLM6EO/qeWWXGxTifeOfNUT1l7oiAGU1moO+3VJtfC99Vu6wxGWqY3HbpJ9/liiuBjXDeYkAS2w5R1PlB3PgLE49PxJTYUGqoYKEFlF1hCrnWXtjbo6PZzKC8pTg2HlJdZXgCuhC5Hx6eiUsx8BdjoImrXkw=,iv:7iLLrfvVoOWOWkmVyEiXMWUYKihO9aI805LZqpEv3SY=,tag:ztoUvChDzA6KUXX2toMnJQ==,type:str]",
+		"pgp": [
+			{
+				"created_at": "2021-12-08T07:22:35Z",
+				"enc": "-----BEGIN PGP MESSAGE-----\n\nhQIMA2SsxQlss+54ARAAhCgYB0UQPgP6yQ+IMw86O8iWeG2fDNNBhSu82HaYdols\nAhrDp+XiM0diNNNQN6oRw4H1hF59EsZGB/D15ocoTTWKFuc54hsEcWd6WjmZpPjf\nl5XbIowcfU/8EtDG2xFx/ihR8W7zjOcuiHSkDEdt6Ym1dCZGfKg6zDfo+TVo0RtB\nOzH8SxTYxXi0hdW3he80MLb6ErV6Kc2zsePUu7n4AhFowf40S/DshjsOMyJ7xL/b\n3/mjK1a0v7zLwuQiMHXMuG58ibM9Sl77GLnZ/H+8rvzvAwbEpOkbkM8jXh5h2yoW\nzN5bmjEpyq4w2IZO2by2UHRjAhDniQAPkSiLbGmrneG90/PJzrEqwad4COfnAi5j\nkB669dybB5dbIunP8Y9kRjVCeBacXHfxWvLp0NXpkzhCVBYeRq8X2T+6TXIruO1M\nnDl3NrD6MztSUMy1rdfVLHM6zYJeak2nEufP1hpAC5rqPA+iAOl//JQiHYdwMcTT\nzDO3RJ8OCQpf1D+gyicnlDb1ORW6Arpta5Q5vrqR3xGRXRt1cX58db0wzujWAT3P\n0oBlAeq66vtNeqFYcImSlbatfJLtBMfRJYkeBZrSnEsWATmaV9ad7olY2TH5hSaa\nvDgL6335CQc4zQKR1alNPaS8oZ8ycyRTCLYkAafzlIFx0RI8vOmomWnW0cwykjLU\naAEJAhC0v1IWWvhlYtvwXhNp86V+dUK3GfWgmFDW7ul8SEoplEbnIpXF3pgwFFq2\nwKljyLv6b67FI1C2jaTS6juBE2gCZo3Vsj4SiQtz/0hWemNtixU3aM4gVBgStujO\nVpBZB0cF5d8Q\n=iGyM\n-----END PGP MESSAGE-----\n",
+				"fp": "2669E35056CAC115E85E000C6D78A6BA1E9B9135"
+			}
+		],
+		"unencrypted_suffix": "_unencrypted",
+		"version": "3.7.1"
+	}
+}
